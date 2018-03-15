@@ -23,6 +23,7 @@ section{
 #tuyau{
   position: absolute;
   height: 50%;
-  left: 250px;
+  margin-right: -100px;
   bottom:350px;
+  right: 0;
 }

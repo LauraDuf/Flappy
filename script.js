@@ -27,3 +27,8 @@ $(document).keydown(function bouge(e) {
 $("#flappy").click(function coucou(){
     alert('Coucou')
 });
+
+
+$('#tuyau').animate({
+    'margin-right':'+=600px'},
+    speed=3000, 'swing');
